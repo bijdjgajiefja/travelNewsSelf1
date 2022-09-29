@@ -1,0 +1,1551 @@
+* {
+    text-decoration: none;
+    margin: auto;
+    /*overflow: hidden;*/
+}
+
+.banner {
+    background-color: #333;
+}
+
+.container {
+    margin: auto;
+    max-width: 1140px;
+    /*background-color: black;*/
+    /*padding: 10px 10px;*/
+    /*display: inline;*/
+}
+
+.custom-margin-special {
+    margin-bottom: 15px;
+}
+
+.navbar2 {
+    padding: 30px 0 15px;
+}
+
+.header-part {
+    padding: 6px 5px;
+
+}
+
+.inline {
+    display: inline;
+}
+
+.inline h3 {
+    display: inline;
+}
+
+
+.trending-theme-color {
+    color: white;
+    /*font-weight: bolder;*/
+    background-color: red;
+    display: inline;
+    padding: 1px 10px;
+    position: relative;
+}
+
+.trending-theme-color:before {
+    /*content: '\f078';
+    position: absolute;
+    z-index: 9;
+    top: 18px;
+    font-size: 12px;
+    right: 40px;
+    font-family: FontAwesome;
+    color: #ababab;*/
+
+    content: '';
+    bottom: -12px;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-top: 8px solid #ec0000;
+    border-right: 6px solid transparent;
+}
+
+
+.theme-color {
+    color: white;
+    font-weight: bolder;
+    background-color: red;
+    display: inline;
+    float: right;
+    margin: 3px;
+    padding: 0 2px;
+}
+
+.brand-ad {
+    /*padding: 20px 230px 20px 100px;*/
+    padding-left: 15px;
+    /*color: #d3d3d3;*/
+    display: inline;
+}
+
+.img-description h3 {
+    color: #fff;
+}
+
+.brand-ad h5 {
+    display: inline;
+    color: #fff;
+    font-weight: bold;
+    padding: 5px 0;
+
+}
+
+/*ection.navbar-section {
+    border-bottom: 2px solid  rgb(146, 141, 133);;
+}*/
+
+.navbar {
+    display: inline;
+}
+
+.pageList {
+    display: inline;
+    position: relative;
+    /*padding: 15px 10px 10px 10px;*/
+}
+
+.pageList li a.first-navbar-a {
+    color: #a3a3a3;
+    padding: 0 10px;
+    font-size: 16px;
+}
+
+#date {
+    display: inline;
+    /*color: rgb(146, 141, 133);*/
+    font-size: 16px;
+    border-right: 1px solid rgb(146, 141, 133);
+    padding-right: 15px;
+    padding-left: 25px;
+    color: #a3a3a3;
+}
+
+ul {
+    list-style-type: none;
+    display: inline;
+    padding: 10px 10px 10px 0px;;
+}
+
+ul>li {
+    display: inline;
+    /*color: #e7e3dc;*/
+}
+
+.media-shares {
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+a {
+    font-size: 20px;
+}
+
+.media-icons {
+    display: inline;
+    float: right;
+    /*color: red;*/
+}
+
+.travel-agency-logo {
+    text-align: center;
+    padding: 20px;
+    /*border-bottom: 2px solid red;*/
+}
+
+.travel-agency-logo-footer {
+    text-align: center;
+    padding: 20px;
+    /*border-bottom: 2px solid red;*/
+}
+
+
+.search-page {
+    display: inline;
+    float: right;
+}
+
+.custom-padding {
+    padding: 0 2.5px;
+}
+
+/*.custom-padding {
+    padding: 5px;
+}
+*/
+
+img {
+    max-width: 100%;
+}
+
+img.special-front-img {
+    /*height: 452px;*/
+    width: 100%;
+
+}
+
+
+.right-top-img {
+    max-width: 100%;
+    /*margin-bottom: 8px;*/
+
+}
+
+.right-bottom-half-img {
+    max-width: 100%;
+}
+
+/**/
+
+.social-media-shares {
+    margin: 30px -10px 15px 0;
+
+}
+
+.shares-front-col {
+    padding-right: 0;
+}
+
+.shares-last-col {
+    padding-left: 0;
+}
+
+.fb-share, .fb-share a {
+    background: #3b5998;
+    /*text-align: center;*/
+    padding: 10px;
+    height: 99px;
+    widh: 26px;
+    color: white;
+    align-items: center;
+}
+
+.google-plus-share, .google-plus-share a {
+    background: #dd4b39;
+    /*text-align: center;*/
+    padding: 15px;
+    height: 99 px;
+    height: 99px;
+    color: white;
+    align-items: center;
+}
+
+/*.google-plus-share a, .youtube-share a, .twitter-share a {
+    background: transparent;
+}*/
+
+.youtube-share, .youtube-share a {
+    background: #dd4b39;
+    /*text-align: center;*/
+    padding: 15px;
+    height: 99px;
+    color: white;
+    align-items: center;
+}
+
+.twitter-share, .twitter-share a {
+    background: #50abf1;
+    /*text-align: center;*/
+    padding: 15px;
+    height: 99px;
+    height: 99px;
+    color: white;
+    align-items: center;
+}
+
+
+
+.custom-padding {
+    padding: 0 6px;
+}
+
+img.right-bottom-half-img {
+    padding: 0px 0px;
+}
+
+.custom-margin {
+    margin: 0 -5px;
+}
+
+.img-description {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.special-tag {
+    padding: 4px 7px;
+    background-color: #333;
+    color: white;
+    /*font-size: 14px;*/
+    display: inline;
+    position: relative;
+}
+
+.h3 {
+    font-size: 23px;
+    padding-right: 10px;
+}
+
+.img-description > h3 {
+    color: white;
+}
+
+.news-package:after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -5px;
+    left: 4px;
+    right: 3px;
+    height: 3px;
+    background: #ec0000;
+}
+
+.social-counter:after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -4px;
+    left: 19px;
+    right: 4px;
+    height: 3px;
+    background: #333;
+    /* padding-left: 20px; */
+}
+
+/*less-than,greater-than signs maintaince*/
+
+i.fa.fa-angle-left, i.fa.fa-angle-right {
+    display: inline;
+    /*border: 1px solid red;*/
+    padding: 0 5px;
+    /*margin: 15px;*/
+    font-size: large;
+    line-height: 14px;
+}
+
+.news-package-anchor i {
+    line-height: 16px;
+    /*padding-left: 7px;*/
+    display: inline;
+    border: none;
+    color: #a2a2a2;
+    padding: 10px;
+    font-size: large;
+    border: 1px solid #a2a2a2;
+    background-color: white;
+
+}
+
+
+/*
+i.fa.fa-angle-right {
+    display: inline;
+    border: 1px solid black;
+    padding: 0 5px;
+    font-size: large;
+
+}*/
+
+
+.greater-than {
+    display: inline-block;
+    float: right;
+    /*right: 30px;*/
+}
+
+.less-than {
+    display: inline-block;
+    float: right;
+    /*right: 30px;*/
+}
+/*End of less-than,greater-than signs maintaince*/
+
+
+.inline-h4 h4 {
+    display: block;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+
+
+/*Common features of news-package and social-counter logo*/
+.second-feature {
+    color: white;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+}
+/*End of common features of news-package and social-counter logo*/
+
+
+.news-package-span {
+    padding: 6px 20px;
+    font-size: 16px;
+    background: #ec0000;
+
+}
+
+.social-counter-span {
+    background: #333;
+    padding: 6px 20px;
+    font-size: 16px;
+
+}
+
+/*Correcting the underline length in newspackage section*/
+.custom-underline {
+    padding: 0 4px;
+}
+/*End of correcting the underline length in newspackage section*/
+
+/*Edit padding of photo-album just after news-package section*/
+
+.front-back-padding {
+    padding: 1px 4px;
+}
+
+.align-photos {
+    margin: 0px;
+     padding: 0px 0px; 
+    padding: 0 10px;
+}
+
+.row.margin-correction {
+    margin: 0px -10px;
+}
+
+/*End of edit padding of photo-album just after news-package section*/
+
+.post-title h2 a {
+    font-size: 18px;
+    color: #000;
+    text-align: center;
+    display: block;
+    padding: 5px 0 15px;
+    transition: all 0.5s ease-out;
+    text-decoration: none;
+    /* display: inline-block; */
+}
+
+   
+.personal-frame .adventure-span {
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    text-align: center;
+    padding: 1px 15px;
+    color: white;
+}
+
+span.adventure-span {
+    position: absolute;
+    left: 30px;
+    top: 2px;
+    font-size: 15px;
+    background: red;
+    padding: 3px;
+}
+
+.anchor-tag-padding a {
+    /* color: rgb(146, 141, 133); */
+    /* font-weight: bold; */
+    font-size: 20px;
+    padding: 0px;
+}
+
+.tibet-ad {
+    margin-top: 20px;
+}
+
+.tibet-tour::after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -5px;
+    left: 0;
+    right: -132px;
+    height: 3px;
+    background: #333;
+}
+
+h4.tibet-tour {
+    margin-bottom: 0;
+}
+
+.tibet-tour span{
+    background: #333;
+    color: white;
+    padding: 6px 20px;
+    font-size: 16px;
+    /*padding: 5px;*/
+    display: inline;
+
+}
+
+.tibet-banner {
+    position: absolute;
+    bottom: 36px;
+    left: 55px;
+    color: white;
+}
+
+.tibet-tour-photo {
+    position: relative;
+    padding: 30px 0;
+}
+
+.tibet-ad {
+    position: relative;
+    padding: 0 0 5px;   
+}
+
+.four-day-lhasa-tour {
+    display: inline;
+    float: left;
+    padding: 10px;
+}
+.four-day-lhasa-list li {
+    display: block;
+    overflow: hidden;
+    /* color: #e7e3dc; */
+}
+
+.aside-bar {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.india-tour-description {
+    position: absolute;
+    bottom: 5px;
+    left: 50px;
+    color: white;
+}
+
+.aside-bar {
+    padding-top: 10px;
+}
+
+
+.col-sm-5.col-xl-5.block-fix {
+    margin: -27px 0px;
+    display: block;
+    overflow: hidden;
+}
+
+.popular-span {
+    background-color: #ff7a09;
+    /*padding: 5px;*/
+    color: white;
+    padding: 6px 20px;
+    font-size: 16px;
+    /*margin-bottom: 5px;*/
+}
+
+
+.cultural-tour-description {
+    width: 70%;
+    margin: 0;
+    float: right;
+    margin-top: 16px;
+    padding-left: 10px;
+}
+
+.cultural-tour-image {
+    width: 30%;
+    float: left;
+    margin-top: 28px;
+}
+
+
+.popular-cultural-tour {
+    overflow: hidden;
+}
+
+.popular-cultural-tour p {
+    font-size: 14px;
+}
+
+.india-tour-heading {
+    position: relative;
+}
+
+.india-tour-title:after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -8px;
+    left: 0;
+    right: 3px;
+    height: 3px;
+    background-color: #333;
+}
+
+span.india-tour-span {
+    background: #333;
+    color: #fff;
+    padding: 5px;
+    position: relative;
+    padding: 6px 20px;
+    font-size: 16px;
+}
+
+h4.india-tour-title {
+    margin-bottom: 50px;
+}
+
+.lhasa-tour-album {
+    overflow: hidden;
+    display: block;
+}
+
+.popular-title {
+    position: relative;
+}
+
+.popular-title:after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -5px;
+    left: 0px;
+    right: 3px;
+    height: 3px;
+    background-color: #ff7a09;
+  }
+
+  .cultural-tour-description h5, p {
+    font-color: black;
+    color: black;
+    text-decoration: none;
+}
+.eco-holiday-description h2,p {
+    color: black;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.eco-holiday-description p {
+    font-size: 14px;
+}
+
+.custom-padding-2 {
+    margin-top: 50px;
+}
+
+.custom-padding a {
+    text-decoration: none;
+}
+
+.treks-pic-heading {
+    margin-bottom: 35px;
+}
+
+.treks-pic-title {
+    position: relative;
+}
+
+.treks-pic-title:after {
+ content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -8px;
+    left: 0px;
+    right: 3px;
+    height: 3px;
+    background-color: #0072bc;
+}
+
+.bhutan-tour-title:after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -8px;
+    left: 0px;
+    right: 3px;
+    height: 3px;
+    background-color: #333;
+}
+
+.bhutan-tour-heading {
+    position: relative;
+}
+
+.bhutan-tour-pic {
+    margin-top: 35px;
+}
+
+.bhutan-aside {
+    position: relative;
+}
+
+.bhutan-tour-description {
+    position: absolute;
+    bottom: 5px;
+    color: white;
+    left: 20px;
+}
+
+.treks-pic-span, .bhutan-tour-span {
+    padding: 5px;
+    color: white;
+    padding: 6px 20px;
+    font-size: 16px;
+}
+
+.treks-pic-span {
+    background-color: #0072bc;
+}
+
+.bhutan-tour-span {
+    background-color: #333;
+
+}
+
+.treks-picAnddescription {
+    position: relative;
+}
+
+.treks-special-span {
+    background-color: #337ab7;
+    padding: 5px 10px;
+    position: relative;
+}
+
+.treks-pic-description {
+    position: absolute;
+    /* top: 10px; */
+    color: white;
+    bottom: 15px;
+    left: 30px;
+}
+
+/*.block-fix*/ 
+.four-day-lhasa-tour ul>li {
+    display: block;
+    /* color: #e7e3dc; */
+    overflow: hidden;
+}
+
+.treks-cultural-tour {
+    float: right;
+}
+
+.treks-pic-album {
+    width: 30%;
+    float: left;
+    /*margin-top: 28px;*/
+}
+
+.description-aside {
+    width: 70%;
+    margin-top: -12px;
+    float: right;
+    padding-left: 10px;
+}
+
+p.treks-pic-album-summary {
+    font-size: 15px;
+}
+
+
+
+a, a:hover, a:focus {
+    text-decoration: none;
+    color: black;
+}
+
+
+.col-sm-6.col-xl-6.front-line {
+    padding-left: 0px;
+}
+
+.empty-blue-box {
+    /*margin: auto;
+    align-items: center;
+    align-content: center;*/
+}
+
+.empty-blue-box img {
+    width: 100%;
+    max-width: 100%;
+    height: 125px;
+    /*width: 265px;*/
+
+}
+
+.empty-blue-box {
+    max-width: 700px;
+    margin: 30px auto 30px;
+}
+
+.pottery-art-post {
+    position: relative;
+}
+
+.pottery-art-title {
+    position: relative;
+}
+
+.pottery-art-span-1 {
+    background-color: #ec0000;
+    /*padding: 5px;*/
+    color: white;
+    padding: 6px 20px;
+    font-size: 16px;
+}
+
+.pottery-art-span-1:after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -6px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #ec0000;
+}
+
+.pottery-art-span-2 {
+    background-color: #ff7a09;
+    color: white;
+    /*padding: 5px;*/
+    padding: 6px 20px;
+    font-size: 16px;
+}
+
+.pottery-art-span-2:after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -6px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #ff7a09;
+}
+
+.pottery-art-span-3 {
+    background-color: #0072bc;
+    color: white;
+    /*padding: 5px;*/
+    padding: 6px 20px;
+    font-size: 16px;
+}
+
+.pottery-art-span-3:after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -6px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #0072bc;
+}
+
+
+.pottery-art {
+    margin-top: 35px;
+}
+
+.pottery-art-description {
+    position: absolute;
+    bottom: 10px;
+    /* text-align: center; */
+    /* align-items: center; */
+    color: white;
+    margin: quto;
+    left: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.pottery-art-description h5 {
+        margin: 5px 15px;
+        font-size: 16px;
+        line-height: 18px;
+}
+
+.children-pic {
+    width: 40%;
+    float: left;
+    margin-top: 28px;
+}
+
+.children-art-description {
+    width: 60%;
+    margin: 0;
+    float: right;
+    margin-top: 23px;
+    padding-left: 10px;
+}
+
+.children-art-description p {
+    font-size: 16px;
+    /*font-weight: bold;*/
+}
+
+.movie-section {
+    margin-top: 50px;
+    background: #464646;
+}
+
+h2.watch-now {
+    color: white;
+    padding-top: 30px;
+    padding: 30px 0 15px 15px;
+}
+
+iframe {
+    height: 352px;
+    width: 100%;
+}
+
+.playing-video {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
+
+.playing-video span, a, a:hover, a:focus {
+    color: #aaa;
+}
+
+.playing-video span {
+    padding-left: 15px;
+}
+
+.watchnow-1 {
+    float: left;
+    width: 30%;
+    /* padding: 5px; */
+    /* margin: 5px; */
+}
+
+.watchnow-1-description {
+    float: right;
+    width: 70%;
+    padding: 0 15px;
+    color: white;
+}
+
+.youtube-videos {
+    overflow: hidden;
+    padding: 10px 0;
+}
+
+section.misceillaneous {
+    background: #464646;
+    padding-top: 25px;
+}
+
+.watchnow-1-description h4 {
+    margin-top: 0;
+}
+
+.misceillaneous h3, date {
+    color: #fff;
+    /*font-weight: 100;*/
+    /*font-size: 20px;*/
+}
+
+.youtube-videos a {
+    padding: 0;
+}
+
+.misceillaneous date {
+    color: #aaa;
+}
+
+.recent-posts-lists {
+    float: left;
+    width: 40%;
+    /* padding: 5px; */
+    /* margin: 5px; */
+}
+
+.recent-posts-description {
+    float: right;
+    width: 60%;
+    /*padding: 0 15px;*/
+    color: #aaa;
+}
+
+
+
+.recent-posts-items {
+    overflow: hidden;
+    padding: 20px 0;
+}
+
+.recent-posts-items ul> li {
+    float: left;
+    padding-bottom: 15px;
+}
+
+.categories-li {
+    margin-bottom: 10px;
+    color: #aaa;
+}
+
+span.categories-page {
+    color: #aaa;
+    float: right;
+}
+
+.col-sm-3.gallery-col-list {
+    padding: 5px;
+    height: 79px;
+    width: 79px;
+    /*box-sizing: content-box;*/
+}
+
+.misceillaneous {
+    padding-bottom: 50px;
+}
+
+.misceillaneous .container {
+    border-bottom: 1px solid white;
+}
+
+section.footer-section {
+    background: #464646;
+    padding-bottom: 50px;
+}
+
+.footer-logo-description p {
+    text-align: center;
+    max-width: 700px;
+    align-items: center;
+    margin: auto;
+    padding-top: 20px;
+    color: #b1aaa6;
+}
+
+.footer-2 {
+    background: #0072bc;
+    height: 30px;
+}
+
+
+.footer-img-logo {
+    text-align: center;
+    height: 41px;
+    width: 300px;
+}
+
+/*.left-full-img:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(70, 43, 43, 0.36);
+}*/
+
+.overlay-put {
+    position: relative;
+}
+
+.overlay-put:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(70, 43, 43, 0.36);
+}
+
+.pic-margin-correction {
+    margin-bottom: 11px;
+}
+
+span.category-span {
+    float: right;
+    color: #aaa;
+    /*font-size: smaller;*/
+}
+
+.category-lists {
+    margin-top: 35px;
+}
+
+.category-li a, .category-span {
+    font-size: smaller;
+}
+
+.row.misceillaneous-row {
+    margin-bottom: 35px;
+}
+
+/*.misceillaneous-row {
+        margin-bottom: 35px;
+}*/
+
+section.movie-section {
+    padding-bottom: 50px;
+}
+
+
+.news-package span:before {
+    content: '';
+    position: absolute;
+    bottom: -16px;
+    left: 26px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 12px solid #ec0000;
+}
+
+.social-counter span:before {
+    content: '';
+    position: absolute;
+    bottom: -16px;
+    left: 26px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 12px solid #333;
+}
+
+.tibet-tour span:before {
+    content: '';
+    position: absolute;
+    bottom: -12px;
+    left: 12px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 12px solid #333;
+}
+
+.popular-title {
+    margin-bottom: 35px;
+}
+
+.popular-title span:before {
+    content: '';
+    position: absolute;
+    bottom: -15px;
+    left: 13px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 12px solid #ff7a09;
+}
+
+.treks-pic-title span:before {
+    content: '';
+    position: absolute;
+    bottom: -17px;
+    left: 13px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 12px solid #0072bc;
+}
+
+.bhutan-tour-title span:before {
+    content: '';
+    position: absolute;
+    bottom: -17px;
+    left: 13px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 12px solid #333;
+}
+
+.captured-treks-pic .pottery-art-span-1:before {
+    content: '';
+    position: absolute;
+    bottom: -17px;
+    left: 13px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 12px solid #ec0000;
+}
+
+.captured-treks-pic .pottery-art-span-2:before {
+    content: '';
+    position: absolute;
+    bottom: -17px;
+    left: 13px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 12px solid #ff7a09;
+}
+
+.captured-treks-pic .pottery-art-span-3:before {
+    content: '';
+    position: absolute;
+    bottom: -17px;
+    left: 13px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 12px solid #0072bc;
+}
+
+.site-nav .col-sm-9 ul.dropdown-item > li:before {
+    content: '\f078';
+    position: absolute;
+    z-index: 9;
+    top: 18px;
+    font-size: 12px;
+    right: 40px;
+    font-family: FontAwesome;
+    color: #ababab;
+}
+
+
+.pageList ul.dropdown-content > li:after {
+    content: '\f078';
+    position: absolute;
+    z-index: 9;
+    top: -1px;
+    font-size: 12px;
+    right: 0;
+    font-family: FontAwesome;
+    color: #ababab;
+}
+
+section.navbar-section {
+    margin-top: -15px;
+}
+
+.special-tag:before {
+    content: '';
+    bottom: -12px;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-top: 8px solid #333;
+    border-right: 6px solid transparent;
+}
+
+.trending-theme-color:before {
+    content: '';
+    bottom: -12px;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-top: 8px solid #ec0000;
+    border-right: 6px solid transparent;
+}
+
+
+/*.india-tour-span:before {
+    content: '\f078';
+    position: absolute;
+    z-index: 9;
+    top: 18px;
+    font-size: 12px;
+    right: 40px;
+    font-family: FontAwesome;
+    color: #ababab;
+}*/
+
+.treks-special-span:before {
+    content: '';
+    bottom: -12px;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-top: 8px solid #337ab7;
+    border-right: 6px solid transparent;   
+}
+
+.treks-pic-album-title {
+    color: black;
+    font-weight: 700;
+    font-size: 16px;
+
+
+}
+
+.post-title h2 {
+    margin-top: 5px;
+}
+
+span.cultural-tour-span {
+    position: absolute;
+    top: 0px;
+    left: -119px;
+    font-size: 14px;
+    color: white;
+    background: #337ab7;
+    padding: 0 12px;
+}
+
+.news-social-join {
+    margin-top: 35px;
+}
+
+a.background-clear {
+    background: transparent;
+    color: white;
+}
+
+
+
+span.no-span {
+    white-space: preserve;
+    display: block;
+    text-align: center;
+    font-size: 16px;
+}
+
+span.subscribe-span {
+    text-align: center;
+    font-size: 16px;
+    display: block;
+}
+
+.square-social-icon {
+    text-align: center;
+    display: block;
+    padding: 0px;
+    margin-top: -25px;
+}
+
+.space-below {
+    margin-bottom: 35px;
+
+}
+
+.row.treks-pic-album-row {
+    margin-bottom: 10px;
+}
+
+a.treks-pic-anchor {
+    position: relative;
+}
+
+.cultural-tour-span:before {
+    content: '';
+    bottom: -12px;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-top: 8px solid #337ab7;
+    border-right: 6px solid transparent;
+}
+
+.navbar {
+    position: relative;
+}
+
+#date:before {
+    content: "\f274";
+    z-index: 99;
+    position: absolute;
+    top: 16px;
+    font-size: 16px;
+    left: 3px;
+    font-family: FontAwesome;
+}
+
+li.navbar-share-icons {
+    padding-left: 15px;
+    font-size: 16px;
+}
+
+.first-navbar-container {
+    margin-top: -11px;
+    margin-bottom: -14px;
+}
+
+i.fa.fa-search {
+    text-align: center;
+    /* line-height: 2px; */
+    vertical-align: -webkit-baseline-middle;
+    color: #a3a3a3;
+    font-size: 20px;
+}
+
+
+ul.dropdown-content li {
+    padding-right: 15px;
+    position: relative;
+    margin-right: 15px;
+}
+
+.fa-angle-left:before {
+    content: "\f104";
+}
+
+.fa-angle-left, .fa-angle-right {
+    right: 20px;
+    color: white;
+    background: #ec0100;
+    padding: 0 5px;
+    border-right: 1px;
+    float: right;
+    margin: 0 2.5px;
+}
+
+#first-navbar-height {
+    margin: 0;
+    line-height: inherit;
+}
+
+span.india-tour-span:before {
+    content: '';
+    position: absolute;
+    bottom: -13px;
+    left: 7px;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 12px solid #333;
+}
+
+.row.eco-holiday-tour-pic {
+    margin-left: -7px;
+    /* padding-left: 0; */
+}
+
+ .treks-pic-col-margin {
+    /*margin-left: -18px;*/
+    padding-left: 0;
+ }
+
+.row.pottery-art-margin {
+    /* padding: 0; */
+    margin: 0 -26px;
+}
+
+/*img:hover {
+    transform: scale(1.05);
+}
+
+img {
+    transition: all 0.5s ease-out;
+}
+*/
+
+ .tibet-photo img:hover {
+    transform: scale(1.1);
+ }
+
+ .tibet-photo img {
+    transition: all 0.5s ease-out;
+ }
+
+ .tibet-photo {
+    overflow: hidden;
+ }
+
+.eco-holiday-tour-pic img:hover {
+    transform: scale(1.1);
+}
+
+.eco-holiday-tour-pic img {
+    transition: all 0.5s ease-out;
+}
+
+.eco-holiday-tour-pic .cultural-tour-image{
+    overflow: hidden;
+}
+
+
+.eco-holiday-tour-pic .eco-img-transition a {
+    overflow: hidden;
+}
+
+.four-day-lhasa-tour img:hover {
+    transform: scale(1.1);
+}
+
+.four-day-lhasa-tour img {
+    transition: all 0.5s ease-out;
+}
+
+.four-day-lhasa-tour {
+    overflow: hidden;
+}
+
+.aside-bar img:hover {
+    transform: scale(1.1);
+}
+
+.aside-bar img {
+    transition: all 0.5s ease-out;
+}
+
+
+.right-margin-align {
+    margin-right: -15px;
+}
+
+.border-black-line {
+    border-bottom: 2px solid rgb(146, 141, 133);
+    border-top: 2px solid #ec0000;
+    padding: 15px 0;
+}
+
+.overflow-frame {
+    overflow: hidden;
+}
+
+.animate img:hover {
+    transform: scale(1.1);
+}
+
+.animate img {
+    transition: all 0.5s ease-out;
+}
+
+.imgholder {
+    width: 482px;
+    overflow: hidden;
+}
+
+#first-navbar-height {
+    border-bottom: 2px solid #a3a3a3;
+}
+
+.eco-img-transition .imgholder {
+    .imgholder {
+    width: 482px;
+    overflow: hidden;
+    float: left;
+    padding-top: -14px;
+    margin-top: -20px;
+    margin-bottom: 15px;
+    margin-left: 0;
+}

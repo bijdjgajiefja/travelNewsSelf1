@@ -1,0 +1,1192 @@
+@media only screen and (max-width: 1200px) {
+    .container {
+        margin: auto;
+        max-width: 100%;
+    }
+    
+    .cultural-tour-image {
+        width: 18%;
+        float: left;
+        margin-top: 0;
+        margin-bottom: 2rem;
+        margin-left: 1.35rem;
+    }
+
+    iframe {
+        height: 29rem;
+        /* width: 100%;
+        margin-top: 1rem; */
+    }
+
+    .recent-posts-description {
+        width: 57%;
+    }
+
+    .row.custom-padding-2 {
+        /* display: flex;
+        margin-right: -5px; */
+        padding-right: 0.6rem;
+    }
+    
+    date {
+        width: 57%;
+    }
+
+    .row.pottery-art-margin {
+        /* padding: 0; */
+        margin-left: -15px;
+    }
+
+    .tibet-banner {
+        position: absolute;
+        bottom: 0em;
+        left: 1.5em;
+        color: white;
+    }
+
+    .india-tour-description {
+        position: absolute;
+        bottom: -2.5em;
+        left: 2.2em;
+        color: white;
+    }
+
+    .recent-posts-description > h5 {
+        margin-top: 0;
+    }
+    
+    .recent-posts-lists {
+        margin-top: 0;
+    }
+
+    /* .row.pottery-art-margin {
+        padding: 0;
+        margin: 0;
+    } */
+
+    .pottery-art-post {
+        margin-left: -15px;
+    }
+
+    .treks-pic-album {
+    width: 30%;
+    float: left;
+    /*margin-top: 28px;*/
+    overflow: hidden;
+}
+
+.row.custom-padding-2 {
+    display: flex;
+}
+
+   .col-md-7.col-lg-7.col-sm-7.custom-padding {
+    margin: 0;
+}
+
+.left-full-img.overlay-put {
+    height: 100%;
+}
+
+img.special-front-img {
+    /*height: 452px;*/
+    width: 100%;
+    height: 100%;
+}
+
+.custom-padding-2 .custom-padding {
+    margin: 0;
+}
+
+
+.col-md-9.col-xl-9.front-back-padding {
+
+    width: 75%;
+    float: left;
+
+}
+
+.imgholder {
+    display: inline;
+}
+/* 
+.social-media-shares .row {
+    float: right;
+} */
+
+.overflow-frame img {
+    /*padding-top: 20px;*/
+    /*margin-top: 15px;*/
+
+}
+
+.front-back-padding {
+    padding: 1px 4px;
+}
+
+.social-counter-span {
+    background: #333;
+    padding: 6px 20px;
+    font-size: 15px;
+}
+
+
+.inline-h4 h4 {
+    display: block;
+    position: relative;
+}
+
+.news-package {
+    margin-bottom: 32px;
+}
+
+.fa.fa-angle-left.left-angle {
+    position: absolute;
+    top: 8px;
+    /* right: -10px; */
+}
+
+.fa.fa-angle-right.right-angle {
+    position: absolute;
+    top: 8px;
+    right: 0;
+}
+
+.social-counter-span {
+    padding: 6px 4px;
+}
+
+.social-counter::after {
+    right: -10px;
+}
+
+h4.tibet-tour {
+    display: block;
+}
+
+.tibet-tour::after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #333;
+}
+
+span.cultural-tour-span {
+    position: absolute;
+    top: 18px;
+    left: -79px;
+    font-size: 14px;
+    color: white;
+    background: #337ab7;
+    padding: 0 12px;
+}
+
+.lhasa-tour-album.right-margin-align {
+    margin: auto;
+    padding-right: -7px;
+}
+
+.overflow-frame {
+    /*margin-top: -12px;*/
+}
+
+.aside-bar.right-margin-align img {
+    margin-top: -20px;
+
+}
+
+.left-full-img.overlay-put {
+    height: 100%;
+    margin-bottom: 10px;
+}
+
+.easy-tag {
+    position: absolute;
+    top: 28px;
+    left: -23px;
+}
+
+.tibet-tour::after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -5px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #333;
+}
+
+
+
+}
+
+
+
+@media only screen and (max-width: 991px) {
+    .recent-posts-description > h5 {
+        margin-top: 0;
+    }
+
+    .row.pottery-art-margin {
+        padding: inherit;
+        /* margin-left: -32px; */
+    }
+
+    /* iframe {
+        height: 24.2rem;
+        /* width: 100%; */
+        /* margin-top: 1rem; */
+    }
+
+    .row.pottery-art-margin {
+        padding: 0;
+        margin-left: -32px;
+    }
+
+    /*
+
+    .overlay-put::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 54%;
+        background: rgba(70, 43, 43, 0.36);
+    } */
+
+    /* .captured-treks-pic .pottery-art-span-1::before,
+    .captured-treks-pic .pottery-art-span-2::before,
+    .captured-treks-pic .pottery-art-span-3::before,
+     {
+        */
+        left: 16px;
+       
+    .row.eco-holiday-tour-pic {
+        margin-left: -15px;
+        padding-left: 0;
+    }
+
+    .india-tour-description {
+        position: absolute;
+        bottom: -3em;
+        left: 3em;
+        color: white;
+    }
+
+    .recent-posts-lists {
+        margin-top: 0;
+    }
+
+        .container {
+        margin: auto;
+        max-width: 100%;
+    }
+    
+    .recent-posts-description {
+        float: left;
+        padding-left: 11px;
+    }
+
+    date {
+        float: right;
+        width: 72%;
+    }
+
+    .children-pic {
+        width: 25%;
+        float: left;
+        margin-top: 28px;
+    }
+
+    .eco-img-transition > a > .imgholder {
+        display: block;
+        /* margin: 0; */
+        width: 100%;
+    }
+
+    .recent-posts-lists {
+        float: left;
+        width: 25%;
+        padding: 5px;
+        /* margin: 5px; */
+    }
+
+    .children-art-description {
+        width: 60%;
+        margin: 0;
+            margin-top: 0px;
+        float: left;
+        margin-top: 23px;
+        padding-left: 10px;
+    }
+
+    input[type="text"] {
+        width: 5em;
+        border-radius: 10%;
+    }
+
+    .col-md-7.col-lg-7.col-sm-7.custom-padding {
+    margin: 0;
+}
+
+.row.custom-padding-2 {
+    display: flex;
+}
+
+
+.left-full-img.overlay-put {
+    height: 100%;
+}
+
+img.special-front-img {
+    /*height: 452px;*/
+    width: 100%;
+    height: 100%;
+}
+
+
+.col-md-9.col-xl-9.front-back-padding {
+
+    width: 75%;
+    float: left;
+
+}
+
+.imgholder {
+    display: inline;
+}
+/* 
+.social-media-shares .row {
+    float: right;
+} */
+
+.overflow-frame img {
+    /*padding-top: 20px;*/
+    /*margin-top: 15px;*/
+
+}
+
+.front-back-padding {
+    padding: 1px 4px;
+}
+
+.social-counter-span {
+    background: #333;
+    padding: 6px 20px;
+    font-size: 15px;
+}
+
+
+.inline-h4 h4 {
+    display: block;
+    position: relative;
+}
+
+.news-package {
+    margin-bottom: 32px;
+}
+
+.fa.fa-angle-left.left-angle {
+    position: absolute;
+    top: 8px;
+    /* right: -10px; */
+}
+
+.fa.fa-angle-right.right-angle {
+    position: absolute;
+    top: 8px;
+    right: 0;
+}
+
+.social-counter-span {
+    padding: 6px 4px;
+}
+
+.social-counter::after {
+    right: -10px;
+}
+
+h4.tibet-tour {
+    display: block;
+}
+
+.tibet-tour::after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #333;
+}
+
+span.cultural-tour-span {
+    position: absolute;
+    top: 18px;
+    left: -79px;
+    font-size: 14px;
+    color: white;
+    background: #337ab7;
+    padding: 0 12px;
+}
+
+.lhasa-tour-album.right-margin-align {
+    margin: auto;
+    padding-right: -7px;
+}
+
+.overflow-frame {
+    /*margin-top: -12px;*/
+}
+
+.aside-bar.right-margin-align img {
+    margin-top: -20px;
+
+}
+
+.left-full-img.overlay-put {
+    height: 100%;
+    margin-bottom: 10px;
+}
+
+.playing-video a {
+    font-size: inherit;
+}
+
+.treks-pic-album {
+    width: 30%;
+    float: left;
+    /*margin-top: 28px;*/
+    overflow: hidden;
+}
+
+.easy-tag {
+    position: absolute;
+    top: -18px;
+    left: 0;
+}
+
+
+.tibet-tour::after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -5px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #333;
+}
+
+
+.left-full-img.overlay-put {
+    height: 100%;
+}
+
+.custom-padding-2 .custom-padding {
+    margin: 0;
+}
+
+.treks-picAnddescription ~ div {
+    overflow: hidden;
+}
+
+.treks-picAnddescription {
+    margin-bottom: 15px;
+}
+
+}
+
+@media only screen and (max-width: 1200px) {
+    .container {
+        margin: auto;
+        max-width: 100%;
+    }
+
+    .treks-pic-album {
+    width: 30%;
+    float: left;
+    /*margin-top: 28px;*/
+    overflow: hidden;
+}
+
+.row.custom-padding-2 {
+    display: flex;
+}
+
+   .col-md-7.col-lg-7.col-sm-7.custom-padding {
+    margin: 0;
+}
+
+.left-full-img.overlay-put {
+    height: 100%;
+}
+
+img.special-front-img {
+    /*height: 452px;*/
+    width: 100%;
+    height: 100%;
+}
+
+.custom-padding-2 .custom-padding {
+    margin: 0;
+}
+
+
+.col-md-9.col-xl-9.front-back-padding {
+
+    width: 75%;
+    float: left;
+
+}
+
+.imgholder {
+    display: inline;
+}
+/* 
+.social-media-shares .row {
+    float: right;
+} */
+
+.overflow-frame img {
+    /*padding-top: 20px;*/
+    /*margin-top: 15px;*/
+
+}
+
+.front-back-padding {
+    padding: 1px 4px;
+}
+
+.social-counter-span {
+    background: #333;
+    padding: 6px 20px;
+    font-size: 15px;
+}
+
+
+.inline-h4 h4 {
+    display: block;
+    position: relative;
+}
+
+.news-package {
+    margin-bottom: 32px;
+}
+
+.fa.fa-angle-left.left-angle {
+    position: absolute;
+    top: 8px;
+    /* right: -10px; */
+}
+
+.fa.fa-angle-right.right-angle {
+    position: absolute;
+    top: 8px;
+    right: 0;
+}
+
+.social-counter-span {
+    padding: 6px 4px;
+}
+
+.social-counter::after {
+    right: -10px;
+}
+
+h4.tibet-tour {
+    display: block;
+}
+
+.tibet-tour::after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #333;
+}
+
+span.cultural-tour-span {
+    position: absolute;
+    top: 18px;
+    left: -79px;
+    font-size: 14px;
+    color: white;
+    background: #337ab7;
+    padding: 0 12px;
+}
+
+.lhasa-tour-album.right-margin-align {
+    margin: auto;
+    padding-right: -7px;
+}
+
+.overflow-frame {
+    /*margin-top: -12px;*/
+}
+
+.aside-bar.right-margin-align img {
+    margin-top: -20px;
+
+}
+
+.left-full-img.overlay-put {
+    height: 100%;
+    margin-bottom: 10px;
+}
+
+.easy-tag {
+    position: absolute;
+    top: 28px;
+    left: -23px;
+}
+
+.tibet-tour::after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -5px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #333;
+}
+
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    .img-description {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        z-index: 1;
+    }
+
+    .custom-margin {
+        margin: 0;
+    }
+
+    .overlay-put-1 {
+        position: relative;
+        width: 97%;
+    }
+
+    .pic-margin-correction {
+        margin-bottom: 5px;
+    }
+
+    .row.pottery-art-margin a {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+
+    /* .captured-treks-pic .pottery-art-span-1::before,
+    .captured-treks-pic .pottery-art-span-2::before,
+    .captured-treks-pic .pottery-art-span-3::before,
+     {
+        left: 16px;
+       
+    } */
+
+    .custom-padding {
+        padding: inherit;
+    }
+
+    .imgholder > img {
+        margin-bottom: 15px;
+    }
+
+    date {
+        float: left;
+        width: 60%;
+    }
+
+    .bhutan-tour-description {
+        left: 9em;
+    }
+
+    .india-tour-description {
+        left: 12em;
+    }
+
+    .tibet-banner {
+        left: 8em;
+    }
+
+
+    .eco-img-transition > a {
+        display: block;
+        overflow: hidden;
+        /* height: 400px; */
+    }
+
+    .tibet-ad {
+        margin-top: 50px;
+        margin-bottom: 15px;
+    }
+
+    iframe {
+        height: 218px;
+        width: 100%;
+    }
+
+    .playing-video a {
+        font-size: large;
+    }
+
+    .four-day-lhasa-tour {
+        padding-left: 0;
+    }
+
+    .tibet-tour-photo {
+        position: relative;
+        padding: 30px 0 10px;
+    }
+
+    .border-black-line {
+        border-bottom: 2px solid rgb(146, 141, 133);
+        border-top: 2px solid #ec0000;
+        padding: 15px;
+    }
+
+    .front-back-padding {
+        padding: 15px;
+        /* margin-left: 15px; */
+        /* margin-right: 15px; */
+    }
+
+    img {
+        width: 100%;
+    }
+
+    .everest-label {
+        margin: 15px;
+    }
+
+    .treks-pic-col-margin {
+        padding: 0 15px;
+    }
+
+    .row.pottery-art-margin {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+
+    date {
+        margin-left: 10px;
+        /* float: right; */
+    }
+
+    .captured-treks-pic {
+        margin-top: 35px;
+    }
+
+    .recent-posts-description>h5 {
+        /* float: right; */
+        margin-left: 10px;
+    }
+
+    
+.row.eco-holiday-tour-pic {
+    /* margin: 0; */
+    margin: 0 -15px;
+    /* padding-left: 0; */
+}
+
+
+    .children-pic.animate {
+        overflow: hidden;
+    }
+
+    .row.pottery-art-margin > div > a {
+        display: block;
+        overflow: hidden;
+    }
+
+    .row.custom-margin {
+        display: flex;
+        justify-content: space-between;
+        /* width: 100%; */
+    }
+    
+    .custom-padding-2 .custom-padding {
+        margin: 0;
+        width: 100%;
+    }
+    
+    img.right-bottom-half-img {
+        width: 100%;
+    }
+
+        .container {
+        margin: auto;
+        max-width: 100%;
+    }
+
+    .col-md-7.col-lg-7.col-sm-7.custom-padding {
+    margin: 0;
+}
+
+.row.custom-padding-2 {
+    display: flex;
+    max-width: 100%;
+    margin: auto;
+}
+
+
+.left-full-img.overlay-put {
+    height: 100%;
+}
+
+img.special-front-img {
+    /*height: 452px;*/
+    width: 100%;
+    height: 100%;
+}
+
+
+.col-md-9.col-xl-9.front-back-padding {
+
+    width: 75%;
+    float: left;
+
+}
+
+.imgholder {
+    display: inline;
+}
+/* 
+.social-media-shares .row {
+    float: right;
+} */
+
+.overflow-frame img {
+    /*padding-top: 20px;*/
+    /*margin-top: 15px;*/
+
+}
+
+/* .front-back-padding {
+    padding: 1px 4px;
+} */
+
+.social-counter-span {
+    background: #333;
+    padding: 6px 20px;
+    font-size: 15px;
+}
+
+
+.inline-h4 h4 {
+    display: block;
+    position: relative;
+}
+
+.news-package {
+    margin-bottom: 32px;
+}
+
+.fa.fa-angle-left.left-angle {
+    position: absolute;
+    top: 8px;
+    /* right: -10px; */
+}
+
+.fa.fa-angle-right.right-angle {
+    position: absolute;
+    top: 8px;
+    right: 0;
+}
+
+.social-counter-span {
+    padding: 6px 4px;
+}
+
+.social-counter::after {
+    right: -10px;
+}
+
+h4.tibet-tour {
+    display: block;
+}
+
+.tibet-tour::after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #333;
+}
+
+span.cultural-tour-span {
+    position: absolute;
+    top: 18px;
+    left: -79px;
+    font-size: 14px;
+    color: white;
+    background: #337ab7;
+    padding: 0 12px;
+}
+
+.lhasa-tour-album.right-margin-align {
+    margin: auto;
+    padding-right: -7px;
+}
+
+.overflow-frame {
+    /*margin-top: -12px;*/
+}
+
+.aside-bar.right-margin-align img {
+    margin-top: -20px;
+
+}
+
+.left-full-img.overlay-put {
+    height: 100%;
+    margin-bottom: 10px;
+}
+
+
+.treks-pic-album {
+    width: 30%;
+    float: left;
+    /*margin-top: 28px;*/
+    overflow: hidden;
+}
+
+.easy-tag {
+    position: absolute;
+    top: -18px;
+    left: 0;
+}
+
+
+.tibet-tour::after {
+    content: '';
+    position: absolute;
+    z-index: 9;
+    bottom: -5px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #333;
+}
+
+
+.left-full-img.overlay-put {
+    height: 100%;
+}
+
+.custom-padding-2 .custom-padding {
+    margin: 0;
+}
+
+.treks-picAnddescription ~ div {
+    overflow: hidden;
+}
+
+.treks-picAnddescription {
+    margin-bottom: 15px;
+}
+
+.treks-picAnddescription ~ div a {
+    color: black;
+    display: block;
+    overflow: hidden;
+    /* margin: 15px 0; */
+}
+
+.everest-label {
+    margin: 15px 0;
+}
+
+/* copied code */
+
+/* end of copied code */
+
+}
+
+
+
+@media only screen and (max-width: 576px) {
+    
+    /* .misceillaneous-title {
+       text-align: right;
+    } */
+
+    .custom-padding {
+        padding: inherit;
+    }
+
+    .recent-posts-description>h5 {
+        /* float: right; */
+        margin-left: 0;
+    }
+
+    .row.margin-correction {
+        margin: -15px;
+    }
+
+    .row.eco-holiday-tour-pic {
+        margin: 0;
+        margin: -15px;
+        padding-left: 0;
+    }
+
+    .imgholder > img {
+        margin-bottom: 15px;
+    }
+
+    .row.eco-holiday-tour-pic {
+        /* margin: -16px; */
+        /* padding-left: 0; */
+    }
+
+    .bhutan-tour-description {
+        left: 9em;
+    }
+
+    .india-tour-description {
+        left: 12em;
+    }
+
+    .tibet-banner {
+        left: 8em;
+    }
+
+    .captured-treks-pic {
+        margin-top: 35px;
+    }
+
+    .tibet-ad {
+        margin-top: 50px;
+        margin-bottom: 15px;
+    }
+/* 
+    input[type="text"] {
+        width: auto;
+        /* border-radius: 20%; */
+    /* } */ */
+
+    .playing-video a {
+        font-size: initial;
+    }
+
+    .custom-padding h3 {
+        font-size: 16px;
+    }
+
+    .container.header-part {
+        display: flex;
+        flex-direction: column;
+        align-content: space-between;
+    }
+
+    ul.dropdown-content>li {
+        display: block;
+        text-align: center;
+    }
+    
+    ul.dropdown-content>li:hover {
+        background-color:#555;
+    }
+    
+    i.fa.fa-angle-right,
+    i.fa.fa-angle-left 
+     {
+        display: none;
+    }
+
+    .brand-ad {
+        text-align: center;
+        margin-top: 5px;
+    }
+
+    .pageList {
+        display: none;
+    }
+
+    .handburger-icon {
+        display: inline;
+        margin-left:15px;
+    }
+
+.easy-tag {
+    position: absolute;
+    top: -18px;
+    left: 0;
+}
+
+.row.pottery-art-margin > div > a {
+    display: block;
+    overflow: hidden;
+}
+
+.children-pic.animate {
+    overflow: hidden;
+}
+
+.row.custom-padding-2 {
+    display: block;
+}
+
+img.right-top-img {
+    width: 100%;
+}
+
+.row.custom-margin {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.custom-padding-2 .custom-padding {
+    margin: 0;
+    width: 100%;
+}
+
+img.right-bottom-half-img {
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
+
+.treks-picAnddescription ~ div a {
+    color: black;
+    display: block;
+    overflow: hidden;
+    margin: 15px 0;
+}
+
+.col-sm-5.col-xl-5.col.block-fix {
+    margin: 15px 0;
+}
+
+.col-md-4.col-lg-4.col.col-sm-4 {
+    overflow: hidden;
+}
+
+
+
+/* copied code */
+
+/* endo of copied code */
+    
+}

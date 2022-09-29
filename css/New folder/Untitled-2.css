@@ -1,0 +1,10 @@
+ul.dropdown-content>li {
+    display: block;
+    text-align: center;
+}
+
+ul.dropdown-content>li:hover {
+    background-color:#555;
+}
+
+<input type="text" name="search-here" placeholder="search">
